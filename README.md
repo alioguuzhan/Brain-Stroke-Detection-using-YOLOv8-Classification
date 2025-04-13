@@ -31,4 +31,4 @@ Images are organized into `train`, `val`, and `test` folders for model training 
 
 | Bleeding (Hemorrhagic Stroke) | Ischemia (Ischemic Stroke) | Normal (Healthy Brain) |
 |-------------------------------|-----------------------------|-------------------------|
-| ![Bleeding](docs/bleeding_sample.png) | ![Ischemia](docs/ischemia_sample.png) | ![Normal](docs/normal_sample.png) |
+| ![Bleeding](docs/bleeding.png) | ![Ischemia](docs/ischemia.png) | ![Normal](docs/normal.png) |
